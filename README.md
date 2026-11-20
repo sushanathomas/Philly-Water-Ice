@@ -4,7 +4,7 @@ Philly Water Ice is a responsive website created as part of my software engineer
 
 ## Project Preview & Live Site
 
-Render: https://philly-water-ice.onrender.com/
+GutHub: https://sushanathomas.github.io/Philly-Water-Ice/
 
 <img width="1890" height="793" alt="Screenshot 2026-10-05 at 2 15 48 AM" src="https://github.com/user-attachments/assets/6b15ace8-2afd-4041-80ff-30c593d83c8c" />
 
